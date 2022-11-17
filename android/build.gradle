@@ -20,6 +20,6 @@ android {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:+'
-    compile 'com.github.siyamed:android-shape-imageview:0.9.+@aar'
+    implementation 'com.facebook.react:react-native:+'
+    implementation 'com.github.siyamed:android-shape-imageview:0.9.+@aar'
 }
