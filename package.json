@@ -26,5 +26,8 @@
   },
   "peerDependencies": {
     "react-native": ">=0.29"
+  },
+  "devDependencies": {
+    "react-native-shape-image-view": "ssh://git@github.com:huynhhq/react-native-shape-image-view.git#my-dev"
   }
 }
